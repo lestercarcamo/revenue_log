@@ -1,2 +1,1 @@
-print('lester')
-def
+print("lester")
